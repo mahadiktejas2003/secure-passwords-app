@@ -50,20 +50,5 @@ You can deploy this app easily to GitHub Pages, Vercel, Netlify, or any static h
 ### Deploy to Vercel/Netlify
 - Connect your GitHub repository and follow the platform instructions for React/Vite projects.
 
-## Project Structure
-```
-05passwordgen/
-  ├── public/
-  └── src/
-      ├── App.jsx
-      ├── SavedPasswordItem.jsx
-      ├── index.css
-      └── ...
-```
-
-## License
-MIT
-
----
 
 **SecurePassGen** – Generate, save, and manage your passwords securely and easily, right in your browser!
